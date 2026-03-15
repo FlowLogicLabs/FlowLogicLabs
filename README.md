@@ -58,10 +58,3 @@ Have a business process that's eating your time? I'll automate it.
 
 ---
 
-## About .gitignore and LICENSE
-
-For the **profile repo** (`FlowLogicLabs`) you **don't need** `.gitignore` or `LICENSE` — those are only needed for project repos like `telegram-laptop-sales-bot`.
-
-The profile repo only needs **one file**:
-```
-README.md   ← that's it
